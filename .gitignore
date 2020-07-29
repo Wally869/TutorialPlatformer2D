@@ -1,0 +1,13 @@
+.vscode/
+build/
+Library/
+Logs/
+obj/
+Packages/
+Temp/
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Demo_Platformer_2D.sln
+Unity.2D.Tilemap.Extras.csproj
+Unity.2D.Tilemap.Extras.Editor.csproj
+Unity.2D.Tilemap.Extras.Placeholder.EditorTests.csproj

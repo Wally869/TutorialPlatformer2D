@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: f9514998c02bc2745a53c243f5412471
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7293598183456022363
+    second: Apple_0
+  - first:
+      213: 3211865404380153573
+    second: Apple_1
+  - first:
+      213: 4808522734667448011
+    second: Apple_2
+  - first:
+      213: -8577097333041121892
+    second: Apple_3
+  - first:
+      213: 1419576285154770477
+    second: Apple_4
+  - first:
+      213: -7706788487438311687
+    second: Apple_5
+  - first:
+      213: 8638710384840876012
+    second: Apple_6
+  - first:
+      213: -4689406079702324653
+    second: Apple_7
+  - first:
+      213: -4804661220611782958
+    second: Apple_8
+  - first:
+      213: 542562350195365616
+    second: Apple_9
+  - first:
+      213: 1535906679059638393
+    second: Apple_10
+  - first:
+      213: -6207369124864647917
+    second: Apple_11
+  - first:
+      213: 7209791866757004406
+    second: Apple_12
+  - first:
+      213: -1462588236305530756
+    second: Apple_13
+  - first:
+      213: 4023135878370671054
+    second: Apple_14
+  - first:
+      213: -337911150936919937
+    second: Apple_15
+  - first:
+      213: 9139289913481491577
+    second: Apple_16
+  - first:
+      213: 833499657658464583
+    second: Apple_17
+  - first:
+      213: -2917529766135685665
+    second: Apple_18
+  - first:
+      213: -2002299124436659549
+    second: Apple_19
+  - first:
+      213: -3713586979578287073
+    second: Apple_20
+  - first:
+      213: -1278305408313154576
+    second: Apple_21
+  - first:
+      213: -2447444315884926095
+    second: Apple_22
+  - first:
+      213: 8681254350174230154
+    second: Apple_23
+  - first:
+      213: -1021347591966109362
+    second: Apple_24
+  - first:
+      213: -4217899501494093869
+    second: Apple_25
+  - first:
+      213: 6281179755796778695
+    second: Apple_26
+  - first:
+      213: -1146625890200537429
+    second: Apple_27
+  - first:
+      213: 9067596390424989492
+    second: Apple_28
+  - first:
+      213: -3821861115207751225
+    second: Apple_29
+  - first:
+      213: 522351626610295428
+    second: Apple_30
+  - first:
+      213: 8772149887050653889
+    second: Apple_31
+  - first:
+      213: 3995799906841892816
+    second: Apple_32
+  - first:
+      213: -3642716260879520771
+    second: Apple_33
+  - first:
+      213: -8274347773735336175
+    second: Apple_34
+  - first:
+      213: 2230724635894399411
+    second: Apple_35
+  - first:
+      213: -4698064934389099766
+    second: Apple_36
+  - first:
+      213: -352238838318709296
+    second: Apple_37
+  - first:
+      213: 7269931790636001757
+    second: Apple_38
+  - first:
+      213: 1307248933200139703
+    second: Apple_39
+  - first:
+      213: -2053378391342387751
+    second: Apple_40
+  - first:
+      213: 4125035630587219360
+    second: Apple_41
+  - first:
+      213: -6975704485838385828
+    second: Apple_42
+  - first:
+      213: -8633323692602965218
+    second: Apple_43
+  - first:
+      213: -5055379555830899523
+    second: Apple_44
+  - first:
+      213: -1960319975221846198
+    second: Apple_45
+  - first:
+      213: 1991666448394316755
+    second: Apple_46
+  - first:
+      213: -1894175570580252315
+    second: Apple_47
+  - first:
+      213: -4910571143876894839
+    second: Apple_48
+  - first:
+      213: 5612245692929648074
+    second: Apple_49
+  - first:
+      213: 6318813241421759022
+    second: Apple_50
+  - first:
+      213: 4000226421020878022
+    second: Apple_51
+  - first:
+      213: -3619792572477323906
+    second: Apple_52
+  - first:
+      213: -3999247146361837072
+    second: Apple_53
+  - first:
+      213: -3112737022942563914
+    second: Apple_54
+  - first:
+      213: -8877989077773782980
+    second: Apple_55
+  - first:
+      213: -6922123883639837103
+    second: Apple_56
+  - first:
+      213: 5297153791394825433
+    second: Apple_57
+  - first:
+      213: 4942619625782963407
+    second: Apple_58
+  - first:
+      213: 4113354311010512581
+    second: Apple_59
+  - first:
+      213: 2301793426444900008
+    second: Apple_60
+  - first:
+      213: 3096541308819659690
+    second: Apple_61
+  - first:
+      213: 3172957472032135035
+    second: Apple_62
+  - first:
+      213: -7631424953087711456
+    second: Apple_63
+  - first:
+      213: 1795562291734369466
+    second: Apple_64
+  - first:
+      213: -8376687198160307784
+    second: Apple_65
+  - first:
+      213: 1798020737299805327
+    second: Apple_66
+  - first:
+      213: -2062250967715198805
+    second: Apple_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Apple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f945b97e0183560800000000000000
+      internalID: 7293598183456022363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6027e6196d29c20800000000000000
+      internalID: 3211865404380153573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce3e3653fd4bb240800000000000000
+      internalID: 4808522734667448011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9532244b6708f880800000000000000
+      internalID: -8577097333041121892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ef7303c1953b310800000000000000
+      internalID: 1419576285154770477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe5b27f3bcfb0590800000000000000
+      internalID: -7706788487438311687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef1bed335dd2e770800000000000000
+      internalID: 8638710384840876012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a29cb1402ebeeb0800000000000000
+      internalID: -4689406079702324653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d60757731a625db0800000000000000
+      internalID: -4804661220611782958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f655e73591978700800000000000000
+      internalID: 542562350195365616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978ef7dacf2a05510800000000000000
+      internalID: 1535906679059638393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d17b24baefad9a0800000000000000
+      internalID: -6207369124864647917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3d82f0835e0460800000000000000
+      internalID: 7209791866757004406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70085a8fb7d3bbe0800000000000000
+      internalID: -1462588236305530756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b96114cc05d730800000000000000
+      internalID: 4023135878370671054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f2ca399f7f4bf0800000000000000
+      internalID: -337911150936919937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Apple_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ff5811c745de70800000000000000
+      internalID: 9139289913481491577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

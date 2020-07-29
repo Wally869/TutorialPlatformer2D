@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: IdleTile
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -6367560908665664636, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: -6056987297122131021, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: 8416797952724722639, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: 4883129791460916795, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: 4278371960119211202, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: 8644832591467991550, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: -7152759390613953277, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: 6456874251884481089, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: -2526832996998184344, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: 4392827059107796345, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  - {fileID: -1363835404106015672, guid: ea7cc71c54ec89d4d85f32b817b1f83e, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
