@@ -13,13 +13,15 @@ public enum CharacterState
 
 public class PlayerController : MonoBehaviour
 {
+    public CharacterState mPlayerState = CharacterState.IDLE;
+
     [Header("Movement Settings")]
     public float mSpeed = 5.0f;
     public float mJumpStrength = 10.0f;
 
-    public CharacterState mPlayerState = CharacterState.IDLE;
+    
 
-    [Header("State Tiles")]
+    [Header("State Sprites")]
     public RuntimeAnimatorController mIdleController;
     public RuntimeAnimatorController mRunningController;
     public RuntimeAnimatorController mJumpingController;

@@ -61719,9 +61719,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6580eececa0ffb40b2803ae78016e18, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  mPlayerState: 0
   mSpeed: 7.5
   mJumpStrength: 20
-  mPlayerState: 0
   mIdleController: {fileID: 9100000, guid: f75c011b1631acd4aa5032380687907a, type: 2}
   mRunningController: {fileID: 9100000, guid: bbbc70c7d9434714894e36eb93b9644b, type: 2}
   mJumpingController: {fileID: 0}
@@ -62668,8 +62668,9 @@ PolygonCollider2D:
       - {x: -0.9789982, y: 0.19152121}
       - {x: -1.0751228, y: 0.062502444}
       - {x: -0.9419308, y: -0.30018878}
-      - {x: -0.9751301, y: -0.7334851}
-      - {x: 1.1875, y: -0.75}
+      - {x: -0.9388428, y: -0.6972716}
+      - {x: 0.23878288, y: -0.69764555}
+      - {x: 1.0973644, y: -0.7139374}
       - {x: 0.9285011, y: 0.4524525}
       - {x: 0.63150024, y: 0.65687555}
 --- !u!114 &8683844393307295960
