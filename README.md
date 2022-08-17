@@ -1,6 +1,8 @@
 # TutorialPlatformer2D  
 Code and Assets for a Simple Platformer Demo in Unity for a Tutorial  
 
+This requires a project to be created with the 2D game template.  
+
 Project is now available as Unity Package file, upgraded for Unity 2021.3, available in releases: https://github.com/Wally869/TutorialPlatformer2D/releases/tag/Package  
 
 
